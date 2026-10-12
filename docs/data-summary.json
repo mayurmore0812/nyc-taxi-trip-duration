@@ -1,0 +1,30 @@
+{
+  "scope": "Independent CSV metadata and filter-count audit; no notebook execution or training.",
+  "train_rows": 1458644,
+  "competition_test_rows": 625134,
+  "pickup_datetime_min": "2016-01-01 00:00:17",
+  "pickup_datetime_max": "2016-06-30 23:59:39",
+  "raw_duration_min_seconds": 1,
+  "raw_duration_max_seconds": 3526282,
+  "missing_values_by_column": {
+    "id": 0,
+    "vendor_id": 0,
+    "pickup_datetime": 0,
+    "dropoff_datetime": 0,
+    "passenger_count": 0,
+    "pickup_longitude": 0,
+    "pickup_latitude": 0,
+    "dropoff_longitude": 0,
+    "dropoff_latitude": 0,
+    "store_and_fwd_flag": 0,
+    "trip_duration": 0
+  },
+  "gps_filter_excluded": 115,
+  "duration_filter_excluded": 5598,
+  "combined_filter_retained": 1452939,
+  "combined_filter_excluded": 5705,
+  "train_csv_bytes": 200589097,
+  "train_csv_sha256": "fc8c777a4ab99a362d8b6b6f2038ff8a2c4625b9593248a47352d0d26fa99927",
+  "test_csv_bytes": 70794289,
+  "test_csv_sha256": "986697cc7f4996684f1cda4298a2ebbdeb83cb1c0de2edee185f0c316a642dc2"
+}

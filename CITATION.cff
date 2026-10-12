@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this project and the original Kaggle competition data when using the analysis."
+type: software
+title: "NYC Taxi Trip Duration Prediction"
+authors:
+  - family-names: More
+    given-names: Mayur
+repository-code: "https://github.com/mayurmore0812/nyc-taxi-trip-duration"
+abstract: "Academic regression source workflow with spatial and temporal features; reported numerical performance is not independently reproduced."

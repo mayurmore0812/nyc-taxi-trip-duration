@@ -1,0 +1,7 @@
+# Direct analytical and notebook dependencies; original versions unknown.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyterlab
